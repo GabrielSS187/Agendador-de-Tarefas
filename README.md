@@ -1,5 +1,5 @@
 <h1 align="center">
-    <p>Agendador de Tarefas</p>
+    <p>Task Scheduler</p>
     <img src="public/favicon.ico" height="500" />
     <p>Agende suas tarefas de forma simples e façil<p>
 </h1>
