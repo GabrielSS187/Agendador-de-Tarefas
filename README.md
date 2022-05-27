@@ -11,7 +11,7 @@ Aqui</a></h1>
 
 ## 📕 Sobre o Projeto
 
-**Agendador de Tafeas**  é um projeto feito para agendar tarefas de uma forma simples é façil onde você so coloca o titulo da sua tarefa e adiciona ela na lista de suas tarefas. A tarefas adicionadas irão começar pendentes para marca como concluida você ira aperta uma vez em cima dela que no canto esquerdo dela ira fica uma barrinha verde sinalizando que ela foi concluida. Essas são apénas algúmas das funcionabilidades que tem no projrto. No site do projeto já tem algúmas tarefas de exemplo para você mexer.
+**Task Scheduler**  é um projeto feito para agendar tarefas de uma forma simples é façil onde você so coloca o titulo da sua tarefa e adiciona ela na lista de suas tarefas. A tarefas adicionadas irão começar pendentes para marca como concluida você ira aperta uma vez em cima dela que no canto esquerdo dela ira fica uma barrinha verde sinalizando que ela foi concluida. Essas são apénas algúmas das funcionabilidades que tem no projrto. No site do projeto já tem algúmas tarefas de exemplo para você mexer.
 
 ## 🔨 Tecnológias usadas
 
